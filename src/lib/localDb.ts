@@ -820,3 +820,5 @@ export {
   setRadarKey,
 } from "./db/radar";
 export type { RadarCache, RadarSettings } from "./db/radar";
+export * from "./db/retiredProviderPurge";
+export * from "./db/retiredProviderPurgeMatch";
